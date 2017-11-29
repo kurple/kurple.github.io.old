@@ -663,8 +663,8 @@ h4 {
     padding-right: 0;
   }
   .mobile-menu-check:checked ~ .header-nav {
-    /*max-height: 1000px;*/
-    height: 90vh;
+    max-height: 1000px;
+    height: 30vh;
   }
   .mobile-menu-check:checked ~ .show-mobile-menu:after {
     background-color: #000;
